@@ -1,1 +1,0 @@
-Today I'm learning how to delete files with git.
